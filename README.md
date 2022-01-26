@@ -1,6 +1,6 @@
 # robofriends
 
-![](name-of-giphy.gif)
+![](demo.gif)
 
 What's inside this app:
 
