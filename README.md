@@ -19,7 +19,6 @@ https://robofriends-2022-daniel.herokuapp.com/
 If you are interested on cloning this repo:
 1. Clone this repo to your local machine
 2. Run ```bash
-pip install foobar
-``` 
-from command-line.
+npm install
+``` from command-line.
 3. Run `npm start` to run your app locally
