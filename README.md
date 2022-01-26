@@ -15,7 +15,7 @@ For a quick preview of the site, click the link below:
 
 https://robofriends-2022-daniel.herokuapp.com/
 
-
+## Run Locally
 If you are interested on cloning this repo:
 1. Clone this repo to your local machine
 2. From the command-line, run
