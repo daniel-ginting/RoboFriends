@@ -1,6 +1,9 @@
 # robofriends
 
+![](name-of-giphy.gif)
+
 What's inside this app:
+
 - This app renders list of random profile from an API.
 - Each profile has it's own card component.
 - Every profile gets a robot image taken from https://robohash.org
