@@ -36,6 +36,5 @@ npm start
 ## Feedback
 You can also countribute or give feedback on this project.
 
-Reach me on discord:
-
+Reach me on discord:\
 https://discordapp.com/users/796539553761984565
