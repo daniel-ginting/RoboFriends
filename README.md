@@ -1,4 +1,4 @@
-# robofriends
+# RoboFriends
 
 ![](demo.gif)
 
