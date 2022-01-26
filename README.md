@@ -23,4 +23,5 @@ If you are interested on cloning this repo:
 npm install
 ``` 
 from command-line.
+
 3. Run `npm start` to run your app locally
