@@ -4,7 +4,7 @@
 
 
 ## What's inside?
-What's inside this ap
+What's inside this app
 
 - This app renders list of random profile from an API.
 - Each profile has it's own card component.
