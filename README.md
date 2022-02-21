@@ -9,7 +9,7 @@ What's inside this app:
 - This app renders list of random profile from an API.
 - Each profile has it's own card component.
 - Every profile gets a robot image taken from https://robohash.org
-- User can filter the profile list from the SearchBox.
+- User can filter the profile list from the 
 
 ## Framework
 
