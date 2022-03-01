@@ -13,7 +13,7 @@ What's inside this app:
 
 ## Framework
 
-This app uses <a href="https://reactjs.org/" target="_blank">ReactJS</a> framework for its develo
+This app uses <a href="https://reactjs.org/" target="_blank">ReactJS</a> framework for its develop
 
 ## Live Site
 
