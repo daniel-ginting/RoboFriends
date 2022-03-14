@@ -6,7 +6,7 @@
 ## What's inside?
 What's inside this app:
 
-- This app renders list of ra
+- This app renders list of ran
 - Each profile has it's own card component.
 - Every profile gets a robot image taken from https://robohash.org
 - User can filter the profile list from the SearchBox.
